@@ -1,0 +1,3 @@
+.markdown-body p > img,
+.markdown-body p > a > img {
+  max-width: 100%;
